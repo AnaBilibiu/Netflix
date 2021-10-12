@@ -42,7 +42,7 @@ header nav a:hover{
 .filme-principal{
     font-size:16px;
     background:linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/Img/capaPrincipal.jpg');
-    height:480px;
+    height:470px;
     background-size: cover;
     display:flex;
     flex-direction:column;
